@@ -1,0 +1,17 @@
+Instructions to run the code:
+
+1. install the following packages:
+nltk - pip3 install nltk,
+os,
+re, 
+math,
+pandas - pip3 install pandas,
+numpy - pip3 install numpy,
+spacy - pip3 install spacy,
+scikitlearn - pip3 install scikit-learn,
+scikit-fuzzy - pip3 install scikit-fuzzy,
+shutil
+
+2. Add the training and validation folders.
+
+3. Run "main_fuzzy.py"
